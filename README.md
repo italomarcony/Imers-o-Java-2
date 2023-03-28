@@ -18,3 +18,4 @@ Aula 1 - Resumo
 4. Foi realizado o desafio que consistia em costumizar a cor de fonte e fundo das informações apresentadas no console.
 
 ## Resultado do Projeto da Aula 1
+![resolucao](https://user-images.githubusercontent.com/54068668/228349164-f06f5b1e-6b4f-4dfd-af6a-47da6ded95c9.png)
